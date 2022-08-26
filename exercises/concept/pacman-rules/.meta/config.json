@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "TBD"
-  ],
-  "files": {
+    "authors": [
+        "pwadsworth"
+    ],
+    "files": {
     "solution": [
       "src/PacmanRules.hs",
       "package.yaml"

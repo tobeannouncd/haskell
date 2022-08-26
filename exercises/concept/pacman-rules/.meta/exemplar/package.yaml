@@ -16,4 +16,3 @@ tests:
     dependencies:
       - pacman-rules
       - hspec
-      

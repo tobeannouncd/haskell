@@ -58,16 +58,12 @@
         ]
       },
       {
-        "uuid": "a3efc3f0-ebe5-442f-8856-0fd93ffea5e8",
         "slug": "pacman-rules",
-        "name": "Pac-Man Rules",
+        "name": "Pacman Rules",
+        "uuid": "9050f8c3-9976-4c4d-93e7-c9c549b1c524",
+        "prerequisites": [ "basics" ],
         "status": "wip",
-        "concepts": [
-
-        ],
-        "prerequisites": [
-
-        ]
+        "concepts": [ "booleans" ]
       }
     ],
     "practice": [
